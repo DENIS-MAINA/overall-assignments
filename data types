@@ -1,0 +1,25 @@
+# QN 1
+fruits = ["passion", "water melon", "dragon fruit"]
+print(fruits[1])
+
+
+
+# QN 2
+numbers = (30,59)
+print(numbers[0])
+
+
+
+# QN 3
+person = {
+    "name": "Denis Maina Irungu",
+    "age": 25
+}
+print("Name:", person ["name"])
+print("Age:", person ["age"])
+
+
+
+# QN 4
+result = None
+print(result)
