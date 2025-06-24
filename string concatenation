@@ -1,0 +1,30 @@
+first_name = "Denis"
+last_name = "Maina"
+
+full_name = first_name + " " + last_name
+print(full_name)
+
+
+
+
+city = "Nairobi"
+country = "Kenya"
+
+print("I live in " + city + " , " + country + " . ")
+
+
+
+name = "Alice"
+age = 25
+print(f"My name is {name} and I am {age} years old.")
+
+
+
+color = "blue"
+age = 20
+print(f"My favourite color is {color} and am {age} years old.")
+
+
+country = "kenya"
+years = 5
+print("Am from " +country+ ", And I have " +str(years)+ " years, of driving experience.")
