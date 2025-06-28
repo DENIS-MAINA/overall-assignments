@@ -1,0 +1,15 @@
+# QN 1
+name = input("Enter your name: ")
+print(f"Hello {name}, How are you , i hope you are well")
+
+
+
+# QN 2
+
+# ask user to imput numbers
+num1 = float(input("Enter number: "))
+num2 = float(input("Enter number: "))
+
+sum = num1 + num2
+
+print(f"The sum is {sum} ")
