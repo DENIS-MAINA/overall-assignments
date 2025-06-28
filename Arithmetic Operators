@@ -1,0 +1,52 @@
+# QN 1 
+    # (i)
+# find sum
+a = 15
+b = 4
+sum = a + b
+print(sum)
+
+
+
+    # (ii)
+# find difference 
+a = 15
+b = 4
+difference = a - b
+print(difference)
+
+    # (iii)
+# find product
+a = 15
+b = 4
+product = a * b
+print(product)
+
+    # (iv)
+# find power
+a = 15
+b = 4
+power = a ** b
+print(power)
+
+    # (v)
+# find the remainder
+a = 15
+b = 4
+remainder = a % b
+print(remainder)
+
+    # (vi)
+# find the quotient
+a = 15
+b = 4
+quotient = a / b
+print(quotient)
+
+
+# QN 2
+ # FIND THE FLOOR DIVISION
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+result = num1 // num2
+print(f"The floor division is {result}")
