@@ -1,0 +1,5 @@
+def greet_user():
+    name = input("what's your name?")
+    print(f"Hello , How are you {name}, good to see you hear")
+
+greet_user()
